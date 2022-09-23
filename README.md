@@ -7,6 +7,12 @@
 - 📫 E-mail para contato: souzap371@gmail.com
 - 😄 Pronouns: ele/dele
 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-adonisjs-original "></i>
+          
+          
+
 <div align="center">
   <a href="https://github.com/souzap371">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzap371&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,8 +24,14 @@
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pablo-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
+ <img align="center" alt="Pablo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Pablo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ <img align="center" alt="Pablo-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+ <img align="center" alt="Pablo-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  
+  <!--
   <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  -->
   <!--
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   -->
