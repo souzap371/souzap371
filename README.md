@@ -3,7 +3,7 @@
 
 
 <!-- - 🔭 Hoje trabalho com front-end -->
-- 🌱 Estudando : Dart (Flutter) / Java (Spring Framework)
+- 🌱 Dev : Dart (Flutter) / Java (Spring Framework) / Java Script / Python
 - 📫 E-mail para contato: souzap371@gmail.com
 - 😄 Pronouns: ele/dele
 
